@@ -8,8 +8,6 @@
 ## Results:
 
 
-![District Summary (Complete Data)](/Images/district_summary_PyCity_Schools.png)
-
 ![customers_df](/Images/customers_df.png)
 ![products_df](/Images/products_df.png)
 ![review_id_df](/Images/review_id_df.png)
